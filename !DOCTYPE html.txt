@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" 
+    content="width=device-width, 
+    initial-scale=1.0">
+    <title>ACTIVITY 4</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Charm:wght@400;700&family=Merienda:wght@300&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Charm:wght@400;700&family=Merienda+One&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Charm:wght@400;700&family=Klee+One&family=Merienda+One&display=swap');
+        body{background-image: linear-gradient(25deg,#d64c7f,#bd5f68 50%)}
+       h1 {font-family: 'Merienda', cursive;}
+       h3 {font-family: 'Merienda One', cursive;}
+       p {font-family: 'Merienda One', cursive;}
+    </style>
+    
+</head>
+<body>
+    <!--header-->
+    <header>
+        <table>
+            <tr>
+                    <h1> Rea Christine H. Coquilla </h1>
+                    <h3> BS Computer Science 3 </h3>
+                    <h3> May 04, 2023 </h3>
+            </tr>
+        </table>
+    </header>
+  
+    <!--Questions-->
+    <section>
+        <br>
+        <h3> Direction: Answer the following questions </h3>
+        <hr>
+            <tr>
+                <td>
+                    <h3> What is Bootstrap? </h3>
+        <ul>
+            <li> Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. 
+                It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other 
+                interface components. Bootstrap includes the basics for responsive web development, so developers only need to insert
+                 the code into a pre-defined 
+                grid system</li>
+            
+        </ul>
+          </td>
+           <td>
+                <h3> Is it necessary to use Bootstrap in your web projects? </h3>
+         <ul>
+            <li>No, it is not necessary to use Bootstrap in your web projects. Bootstrap is a popular front-end framework
+                that provides a set of pre-built CSS and JavaScript components, which can make it faster and easier to build 
+                responsive and mobile-first web designs.</li>
+         </ul>       
+        </td>
+          <td>
+               <h3> Give examples of some websites that currently use or used Bootstrap in the past. </h3>
+        <ul>
+            <li> Twitter,Airbnb,Spotify,Netflix,Udemy,Lyft,Dropbox</li>
+        </ul>     
+         </td>     
+</body>
+</html>
